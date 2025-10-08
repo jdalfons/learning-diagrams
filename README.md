@@ -2,9 +2,10 @@
 
 ## About
 
-This repository serves as a comprehensive knowledge base of technical diagrams created with [draw.io](https://draw.io). It contains visual representations of various concepts, architectures, and workflows that I've learned and implemented throughout my career. The diagrams are organized to share knowledge with anyone interested in learning about data engineering, data science, and cloud architecture.
+This repository is a curated collection of technical diagrams designed to serve as a comprehensive knowledge base. It visualizes key concepts, architectures, and workflows that I’ve studied and implemented across data and software architecture domains.
+All diagrams are created and maintained using draw.io (with plans to include code-based tools in the future), making them easy to view, edit, and collaborate on.
 
-All diagrams are created and maintained using draw.io, making them easy to view, edit, and collaborate on. Feel free to explore, learn, and use these diagrams as reference materials for your own projects.
+Feel free to explore, learn, and use these diagrams as references for expanding your own understanding of data systems, software design, and related technical concepts.
 
 ## Repository Structure
 
